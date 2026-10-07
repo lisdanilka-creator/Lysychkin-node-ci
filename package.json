@@ -1,0 +1,12 @@
+{
+  "name": "ci-node-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "keywords": [],
+  "author": "Daniil Lysychkin",
+  "license": "ISC"
+}
